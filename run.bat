@@ -1,0 +1,1 @@
+pytest -s -v --html=./Reports/leningentest.html testCases/test_Leningen.py --browser Chrome

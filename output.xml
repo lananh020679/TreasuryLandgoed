@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.1 (Python 3.8.5 on win32)" generated="20200905 14:16:46.842" rpa="false">
+<suite id="s1" name="TC1 LoginTreasuryTest" source="D:\Python Projects\TreasuryProject\testCases\RobotFramework\TC1_LoginTreasuryTest.robot">
+<test id="s1-t1" name="LoginTest">
+<kw name="Open my Browser" library="LoginKeywords">
+<arguments>
+<arg>${InfrastructureUrl}</arg>
+<arg>${browser}</arg>
+</arguments>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${baseUrl}</arg>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20200905 14:16:47.072" level="INFO">Opening browser 'Chrome' to base url 'https://treasury201804.aareoncloud.nl/'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20200905 14:16:50.377" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" starttime="20200905 14:16:50.377" endtime="20200905 14:16:50.378"></status>
+</kw>
+<msg timestamp="20200905 14:16:50.397" level="FAIL">SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 83
+</msg>
+<status status="FAIL" starttime="20200905 14:16:47.071" endtime="20200905 14:16:50.397"></status>
+</kw>
+<status status="FAIL" starttime="20200905 14:16:47.069" endtime="20200905 14:16:50.398"></status>
+</kw>
+<status status="FAIL" starttime="20200905 14:16:47.067" endtime="20200905 14:16:50.400" critical="yes">SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 83
+</status>
+</test>
+<status status="FAIL" starttime="20200905 14:16:46.849" endtime="20200905 14:16:50.404"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="TC1 LoginTreasuryTest">TC1 LoginTreasuryTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 
 class Leningen:
     # Go to Leningen from menu
-    mnu_FinanInstrumenten_xpath = "//span[contains(text(),'Financiële instrumenten')]"
+    mnu_FinanInstrumenten_xpath ="//span[@class='nav-item'][contains(text(),'Financiële instrumenten')]" #"//span[contains(text(),'Financiële instrumenten')]"
     mnuitem_Leningen_xpath = "//div[3]//li[3]//span[1]"
     # New button
     btn_Nieuws_xpath = "//button[@class='primary']//i[@class='fa fa-plus-circle']"

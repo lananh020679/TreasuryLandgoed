@@ -2916,3 +2916,55 @@
 30-08-2020 01:53:43 PM: DEBUG: DELETE http://127.0.0.1:50706/session/1384252d-de0a-4498-a1dc-3ea3fe29d306 {}
 30-08-2020 01:53:48 PM: DEBUG: http://127.0.0.1:50706 "DELETE /session/1384252d-de0a-4498-a1dc-3ea3fe29d306 HTTP/1.1" 200 14
 30-08-2020 01:53:48 PM: DEBUG: Finished Request
+05-09-2020 02:09:29 PM: DEBUG: POST http://127.0.0.1:56466/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:09:29 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56466
+05-09-2020 02:09:30 PM: DEBUG: http://127.0.0.1:56466 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:09:30 PM: DEBUG: Finished Request
+05-09-2020 02:09:32 PM: DEBUG: POST http://127.0.0.1:56479/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:09:32 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56479
+05-09-2020 02:09:33 PM: DEBUG: http://127.0.0.1:56479 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:09:33 PM: DEBUG: Finished Request
+05-09-2020 02:09:36 PM: DEBUG: POST http://127.0.0.1:56493/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:09:36 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56493
+05-09-2020 02:09:36 PM: DEBUG: http://127.0.0.1:56493 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:09:36 PM: DEBUG: Finished Request
+05-09-2020 02:09:39 PM: DEBUG: POST http://127.0.0.1:56506/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:09:39 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56506
+05-09-2020 02:09:40 PM: DEBUG: http://127.0.0.1:56506 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:09:40 PM: DEBUG: Finished Request
+05-09-2020 02:10:30 PM: DEBUG: POST http://127.0.0.1:56585/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:10:30 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56585
+05-09-2020 02:10:31 PM: DEBUG: http://127.0.0.1:56585 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:10:31 PM: DEBUG: Finished Request
+05-09-2020 02:10:33 PM: DEBUG: POST http://127.0.0.1:56600/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:10:33 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56600
+05-09-2020 02:10:34 PM: DEBUG: http://127.0.0.1:56600 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:10:34 PM: DEBUG: Finished Request
+05-09-2020 02:10:37 PM: DEBUG: POST http://127.0.0.1:56619/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:10:37 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56619
+05-09-2020 02:10:37 PM: DEBUG: http://127.0.0.1:56619 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:10:37 PM: DEBUG: Finished Request
+05-09-2020 02:10:40 PM: DEBUG: POST http://127.0.0.1:56632/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:10:40 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56632
+05-09-2020 02:10:41 PM: DEBUG: http://127.0.0.1:56632 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:10:41 PM: DEBUG: Finished Request
+05-09-2020 02:11:41 PM: DEBUG: POST http://127.0.0.1:56651/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:11:41 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56651
+05-09-2020 02:11:42 PM: DEBUG: http://127.0.0.1:56651 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:11:42 PM: DEBUG: Finished Request
+05-09-2020 02:11:45 PM: DEBUG: POST http://127.0.0.1:56667/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:11:45 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56667
+05-09-2020 02:11:46 PM: DEBUG: http://127.0.0.1:56667 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:11:46 PM: DEBUG: Finished Request
+05-09-2020 02:11:48 PM: DEBUG: POST http://127.0.0.1:56683/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:11:48 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56683
+05-09-2020 02:11:49 PM: DEBUG: http://127.0.0.1:56683 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:11:49 PM: DEBUG: Finished Request
+05-09-2020 02:11:52 PM: DEBUG: POST http://127.0.0.1:56700/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:11:52 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56700
+05-09-2020 02:11:53 PM: DEBUG: http://127.0.0.1:56700 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:11:53 PM: DEBUG: Finished Request
+05-09-2020 02:13:43 PM: DEBUG: POST http://127.0.0.1:56743/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+05-09-2020 02:13:43 PM: DEBUG: Starting new HTTP connection (1): 127.0.0.1:56743
+05-09-2020 02:13:44 PM: DEBUG: http://127.0.0.1:56743 "POST /session HTTP/1.1" 500 992
+05-09-2020 02:13:44 PM: DEBUG: Finished Request
